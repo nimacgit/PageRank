@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+CourseraAdjancy.txt
+*.gz
+web-Stanford.txt.gz
 # Distribution / packaging
 .Python
 build/
